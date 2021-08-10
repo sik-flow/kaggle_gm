@@ -1,0 +1,655 @@
+rank,tier,url,job,location,title,company,country
+1,grandmaster,/philippsinger,Senior Data Scientist at H2O.AI,"Vienna, Vienna, Austria",Senior Data Scientist,H2O.AI,Austria
+2,grandmaster,/wowfattie,Data Scientist at H2O.ai,"New York, New York, United States",Data Scientist,H2O.ai,United States
+3,grandmaster,/christofhenkel,Deep Learning Data Scientist at Nvidia,"Munich, Bavaria, Germany",Deep Learning Data Scientist,Nvidia,Germany
+5,grandmaster,/dott1718,Senior Data Scientist at H2O.ai,"Vienna, Vienna, Austria",Senior Data Scientist,H2O.ai,Austria
+6,grandmaster,/kazanova,Data Scientist at H2O ai,"Volos, Greece",Data Scientist,H2O.AI,Greece
+7,grandmaster,/aerdem4,Machine Learning at NVIDIA,"Utrecht, Utrecht, Netherlands",Machine Learning,Nvidia,Netherlands
+8,grandmaster,/ilu000,Software Engineer at Aachen,"Aachen, North Rhine-Westphalia, Germany",Software Engineer,Aachen,Germany
+9,grandmaster,/tunguz,Data Scientist at Nvidia (Rapids.ai),"Greencastle, Indiana, United States",Data Scientist,Nvidia,United States
+10,grandmaster,/haqishen,Machine Learning Engineer at LINE corp.,"Tokyo, Tokyo, Japan",Machine Learning Engineer,LINE corp.,Japan
+11,grandmaster,/titericz,RAPIDS at NVIDIA,"Curitiba, State of Paraná, Brazil",RAPIDS,Nvidia,Brazil
+13,grandmaster,/keetar,programmer at Samsung Electronics,"Seoul, Seoul, South Korea",programmer,Samsung Electronics,South Korea
+14,grandmaster,/boliu0,Deep Learning at NVIDIA,"New York, New York, United States",Deep Learning,Nvidia,United States
+15,grandmaster,/cdeotte,Data Scientist & Researcher at Nvidia,"San Diego, California, United States",Data Scientist & Researcher,Nvidia,United States
+16,grandmaster,/limerobot,Data Scientist at UPSTAGE AI,"Seongnam-si, Gyeonggi-do, South Korea",Data Scientist,UPSTAGE AI,South Korea
+17,grandmaster,/theoviel,Research Scientist at DAMAE Medical,"Paris, Île-de-France, France",Research Scientist,DAMAE Medical,France
+18,grandmaster,/tvdwiele,Data Scientist at Intelecy,"Gran, Innlandet, Norway",Data Scientist,Intelecy,Norway
+19,master,/tikutiku,Engineer at HIOKI E.E.Corporation,"Ueda, Nagano, Japan",Engineer,HIOKI E.E.Corporation,Japan
+20,grandmaster,/cpmpml,RAPIDS and deep learning at NVIDIA,France,RAPIDS and deep learning,Nvidia,France
+21,grandmaster,/selimsef,Computer Vision Engineer at Mapbox,"Minsk, Minsk Region, Belarus",Computer Vision Engineer,Mapbox,Belarus
+23,master,/avsanjay,engineer at int,"Chandler, Arizona, United States",engineer,int,United States
+24,master,/mathurinache,Data Scientist at Prevision.io,"Orvault, Pays de la Loire, France",Data Scientist,Prevision.io,France
+25,grandmaster,/nguyenbadung,Data scientist at Vingroup Big Data Institute,"Hanoi, Hanoi, Vietnam",Data scientist,Vingroup Big Data Institute,Vietnam
+26,grandmaster,/gaborfodor,Data Scientist at H2O.ai,"Budapest, Hungary",Data Scientist,H2O.ai,Hungary
+27,master,/harangdev,Student at Seoul National University,"Seoul, Seoul, South Korea",Student,Seoul National University,South Korea
+30,grandmaster,/dmytropoplavskiy,Software Engineer at Topcon Positioning Systems,"Brisbane, Queensland, Australia",Software Engineer,Topcon Positioning Systems,Australia
+32,grandmaster,/its7171,Search Engineer at Universal Knowledge Inc.,"Tokyo, Tokyo, Japan",Search Engineer,Universal Knowledge Inc.,Japan
+34,grandmaster,/alijs1,Lead software architect at Tieto Latvia,"Riga, Latvia",Lead software architect,Tieto Latvia,Latvia
+35,master,/poteman,Scientiest at Didi,"Beijing, Beijing, China",Scientiest,Didi,China
+36,grandmaster,/suicaokhoailang,Senior Data Ritualist  at Zalo,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",Senior Data Ritualist,Zalo,Vietnam
+37,expert,/kirderf,nan at nan,"Stockholm, Stockholm County, Sweden",,,Sweden
+38,master,/nagiss,Graduate Student at Waseda University,"Tokyo, Tokyo, Japan",Graduate Student,Waseda University,Japan
+39,grandmaster,/lyakaap,Data Scientist at DeNA,"Tokyo, Tokyo, Japan",Data Scientist,DeNA,Japan
+40,grandmaster,/onodera,Senior Deep Learning Data Scientist at NVIDIA,"Shibuya City, Tokyo, Japan",Senior Deep Learning Data Scientist,Nvidia,Japan
+42,master,/socom20,Nuclear Engineer at CNEA,"San Carlos de Bariloche, Río Negro, Argentina",Nuclear Engineer,CNEA,Argentina
+44,grandmaster,/rguo97,Student at Umich,"Ann Arbor, Michigan, United States",Student,Umich,United States
+46,master,/morizin,Advisor and Presentor at HealthGenYZ,"Malappuram, Kerala, India",Advisor and Presentor,HealthGenYZ,India
+48,expert,/andrekos,Senior Data Scientist at IAG,Singapore,Senior Data Scientist,IAG,Singapore
+49,master,/nischaydnk,"Undergraduate at Netaji Subash University Of Technology, Delhi","Gurugram, Haryana, India",Undergraduate,"Netaji Subash University Of Technology, Delhi",India
+55,master,/dathudeptrai,AI Engineer at Zalo,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",AI Engineer,Zalo,Vietnam
+56,grandmaster,/alexanderliao,Machine Learning Engineer at Praxis Pioneering,"Beijing, Beijing, China",Machine Learning Engineer,Praxis Pioneering,China
+59,grandmaster,/bolkonsky,Data Science at Moscow State University,"Moscow, Russia",Data Science,Moscow State University,Russia
+61,master,/ilialar,Data Science Manager at Agoda,"Bangkok, Bangkok, Thailand",Data Science Manager,Agoda,Thailand
+62,grandmaster,/outrunner,Data Scientist at YUAN,"Taipei, Taiwan",Data Scientist,YUAN,Taiwan
+64,grandmaster,/mamasinkgs,kibitzer at kgs go server,"Tokyo, Tokyo, Japan",kibitzer,kgs go server,Japan
+67,master,/tascj0,  at  ,"Hangzhou, Zhejiang, China",,,China
+68,grandmaster,/vecxoz,Deep Learning Engineer at VecxozLab,"Dnipro, Dnipropetrovsk Oblast, Ukraine",Deep Learning Engineer,VecxozLab,Ukraine
+70,master,/allvor,Data Scientist at  ,"Warsaw, Masovian Voivodeship, Poland",Data Scientist,,Poland
+72,grandmaster,/khyeh0719,Data Scientist at H2O.ai,"Hsinchu, Taiwan",Data Scientist,H2O.ai,Taiwan
+73,grandmaster,/charmq,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+75,master,/ks2019,Machine Learning Engineer at Jio Saavn,"Mumbai, Maharashtra, India",Machine Learning Engineer,Jio Saavn,India
+77,master,/voglinio,Data Scientist at Nodalpoint Systems,"Athens, Greece",Data Scientist,Nodalpoint Systems,Greece
+78,master,/namakemono,Engineer at MNES,"Tokyo, Tokyo, Japan",Engineer,MNES,Japan
+79,master,/scusywxy,Master at Sichuan University,"Chengdu, Sichuan, China",Master,Sichuan University,China
+80,grandmaster,/drn01z3,Head of Computer Vision Platform at SberDevices,"Moscow, Russia",Head of Computer Vision Platform,SberDevices,Russia
+81,grandmaster,/golubev,ML Engineer at FPT.ai,"Hanoi, Hanoi, Vietnam",ML Engineer,FPT.ai,Vietnam
+82,master,/prateekagnihotri,Data Scientist at Clairvoyant.ai,"New Delhi, Delhi, India",Data Scientist,Clairvoyant.ai,India
+83,grandmaster,/fatihozturk,Data Scientist at H2O,"Istanbul, Istanbul, Turkey",Data Scientist,H2O.AI,Turkey
+84,master,/tereka,Data Scientist at Acroquest Technology Co. Ltd.,"Yokohama, Kanagawa, Japan",Data Scientist,Acroquest Technology Co. Ltd.,Japan
+85,grandmaster,/mmotoki,Data Scientist at H2O.ai,"Honolulu, Hawaii, United States",Data Scientist,H2O.ai,United States
+86,master,/taggatle,PhD Student at  University of Surrey,"Guildford, England, United Kingdom",PhD Student,University of Surrey,United Kingdom
+88,master,/paulorzp,System Analyst at Petrobras,"Rio de Janeiro, State of Rio de Janeiro, Brazil",System Analyst,Petrobras,Brazil
+89,grandmaster,/vicensgaitan,Chief Data Scientist at Grupo AIA,"Barcelona, Catalonia, Spain",Chief Data Scientist,Grupo AIA,Spain
+90,grandmaster,/davletag,Senior Deep Learning Engineer at NTechLab,"Moscow, Russia",Senior Deep Learning Engineer,NTechLab,Russia
+91,master,/amezet,CEO at DSC Energy Analytics,"Seville, Andalusia, Spain",CEO,DSC Energy Analytics,Spain
+92,grandmaster,/ybabakhin,Senior Data Scientist at H2O.ai,"Minsk, Minsk Region, Belarus",Senior Data Scientist,H2O.ai,Belarus
+93,master,/prashantkikani,Machine Learning at Embibe,"Bengaluru, Karnataka, India",Machine Learning,Embibe,India
+94,master,/tkm2261,CS PhD student at UCIrvine,Japan,CS PhD student,UCIrvine,Japan
+95,master,/shujun717,PhD student at Texas A&M University,"College Station, Texas, United States",PhD student,Texas A&M University,United States
+96,grandmaster,/kfujikawa,Machine Learning Engineer at DeNA,"Tokyo, Tokyo, Japan",Machine Learning Engineer,DeNA,Japan
+102,grandmaster,/tivfrvqhs5,Engineer at Intel,"Phoenix, Arizona, United States",Engineer,Intel,United States
+104,master,/rytisva88,NA at NA,"Washington, District of Columbia, United States",,,United States
+105,master,/bamps53,ML Engineer at manufacturing company,"Osaka, Osaka, Japan",ML Engineer,manufacturing company,Japan
+106,grandmaster,/ouranos,Data Scientist at Nodalpoint Systems,"Athens, Greece",Data Scientist,Nodalpoint Systems,Greece
+108,master,/startjapan,Med Student at Hiroshima Univ.,"Hiroshima, Hiroshima, Japan",Med Student,Hiroshima Univ.,Japan
+109,grandmaster,/youhanlee,AI Research Engineer at Kakaobrain,"Seongnam-si, Gyeonggi-do, South Korea",AI Research Engineer,Kakaobrain,South Korea
+110,master,/osciiart,"Osamu Akiyama, a medical doctor at Osaka University","Osaka, Osaka, Japan","Osamu Akiyama, a medical doctor",Osaka University,Japan
+112,master,/yamsam,Data Scientist at Canon Inc.,"Yokohama, Kanagawa, Japan",Data Scientist,Canon Inc.,Japan
+114,grandmaster,/takuok,DataScientist at Rist. Z by HP & NVIDIA Data Science Global Ambassador,"Tokyo, Tokyo, Japan",DataScientist,Rist. Z by HP & NVIDIA Data Science Global Ambassador,Japan
+115,master,/churkinnikita,DS at  ,"Moscow, Russia",DS,,Russia
+116,master,/jpbremer,MD Student at UKE,"Hamburg, Hamburg, Germany",MD Student,UKE,Germany
+117,grandmaster,/dmitrylarko,Chief Data Scientist at H2O.ai,"California, United States",Chief Data Scientist,H2O.ai,United States
+118,master,/kami634,student at University of Tokyo,"Tokyo, Tokyo, Japan",student,University of Tokyo,Japan
+119,grandmaster,/darraghdog,AI Researcher at DoubleYard,"Dublin, County Dublin, Ireland",AI Researcher,DoubleYard,Ireland
+120,grandmaster,/senkin13,Data Scientist at DataRobot Japan,"Tokyo, Tokyo, Japan",Data Scientist,DataRobot Japan,Japan
+121,master,/simakov,"DS at Sber, Artificial Intelligence Lab","Moscow, Russia",DS,"Sber, Artificial Intelligence Lab",Russia
+127,grandmaster,/btbpanda,Data Scientist  at Sberbank Russia,"Moscow, Russia",Data Scientist,Sberbank Russia,Russia
+128,grandmaster,/lanjunyelan,data scientist at SJTU,"Shanghai, Shanghai, China",data scientist,SJTU,China
+129,grandmaster,/confirm,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+131,expert,/duykhanh99,Student at Ha Noi University of Science and Technology,"Hanoi, Hanoi, Vietnam",Student,Ha Noi University of Science and Technology,Vietnam
+133,master,/ivanpan,Deep Learning Engineer at OmicEra,"Yekaterinburg, Sverdlovsk Oblast, Russia",Deep Learning Engineer,OmicEra,Russia
+134,master,/mahluo,Data Minning at Baidu,"Chengdu, Sichuan, China",Data Minning,Baidu,China
+139,master,/shimacos,Data Scientist at DeNA/Mobility Technologies,"Shibuya City, Tokyo, Japan",Data Scientist,dena,Japan
+140,grandmaster,/dempton,Lead Data Scientist at CIAN,"Moscow, Russia",Lead Data Scientist,CIAN,Russia
+141,expert,/manojprabhaakr,Data Scientist at Philips,"Bengaluru, Karnataka, India",Data Scientist,Philips,India
+146,grandmaster,/rohanrao,Data Scientist at H2O.ai,"Bengaluru, Karnataka, India",Data Scientist,H2O.ai,India
+149,master,/iafoss,Research Scientist at IAI,"Gaithersburg, Maryland, United States",Research Scientist,IAI,United States
+152,master,/maciejsypetkowski,Student at University of Warsaw,"Warsaw, Masovian Voivodeship, Poland",Student,University of Warsaw,Poland
+154,grandmaster,/tonyxu, Algorithm Engineer at SHEIN,"Nanjing, Jiangsu, China",Algorithm Engineer,SHEIN,China
+155,expert,/icecuber,Student at NTNU,"Trondheim, Trondelag, Norway",Student,NTNU,Norway
+156,expert,/tonychenxyz,Undergraduate Student at Columbia University,"New York, New York, United States",Undergraduate Student,Columbia University,United States
+157,expert,/aikhmelnytskyy,Appraiser at Termin,"Lviv, Lviv Oblast, Ukraine",Appraiser,Termin,Ukraine
+158,grandmaster,/jiweiliu,Data Scientist at Nvidia AI infrastructure,"Pittsburgh, Pennsylvania, United States",Data Scientist,Nvidia AI infrastructure,United States
+162,master,/lftuwujie,Lead Data Scientist at Starcom,"London, England, United Kingdom",Lead Data Scientist,Starcom,United Kingdom
+163,master,/lucamassaron,Data Science & Modelling Senior Expert at illimity Bank,"Verona, Veneto, Italy",Data Science & Modelling Senior Expert,illimity Bank,Italy
+164,master,/matthiasanderer,Technology Advisor at Matthias Anderer GmbH,"Munich, Bavaria, Germany",Technology Advisor,Matthias Anderer GmbH,Germany
+165,expert,/jannish,Data Scientist at Dürr Systems AG,"Stuttgart, Baden-Württemberg, Germany",Data Scientist,Dürr Systems AG,Germany
+166,expert,/sebastiangnther,Researcher at University of Bamberg,"Bamberg, Bavaria, Germany",Researcher,University of Bamberg,Germany
+167,master,/linshokaku,Enginner at Preferred Networks,"Tokyo, Tokyo, Japan",Enginner,Preferred Networks,Japan
+169,master,/aruchomu,"Data Scientist at MC Digital, Mitsubishi Group","Chiyoda City, Tokyo, Japan",Data Scientist,"MC Digital, Mitsubishi Group",Japan
+172,master,/vaghefi,Data Scientist at  Qualcomm,"Campbell, California, United States",Data Scientist,Qualcomm,United States
+173,master,/letranduckinh,Engineer at D2F,"Bourg-la-Reine, Île-de-France, France",Engineer,D2F,France
+175,master,/zaburo,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+179,master,/ulrich07,Student at ENS-CACHAN & ENSAE Paris-Tech,"Palaiseau, Île-de-France, France",Student,ENS-CACHAN & ENSAE Paris-Tech,France
+180,master,/masatomatsui,ML Engineer at Rist Inc.,"Kyoto, Kyoto, Japan",ML Engineer,Rist Inc.,Japan
+181,expert,/seshurajup,Senior Engineering Manager at Dolcera,"Hyderabad, Telangana, India",Senior Engineering Manager,Dolcera,India
+183,grandmaster,/hidehisaarai1213,ML Engineer at Recruit Co. Ltd,"Tokyo, Tokyo, Japan",ML Engineer,Recruit Co. Ltd,Japan
+184,grandmaster,/raddar,Co-Founder & Data Scientist at oxipit.ai,"Vilnius, Vilnius County, Lithuania",Co-Founder & Data Scientist,oxipit.ai,Lithuania
+186,grandmaster,/abhishek,AutoNLP at 🤗,"Stavanger, Rogaland, Norway",AutoNLP,🤗,Norway
+187,expert,/khoongweihao,Analyst & Research Associate at SingHealth/Duke-NUS,"Singapore, Singapore",Analyst & Research Associate,SingHealth/Duke-NUS,Singapore
+190,master,/moewie94,Comp Vision Researcher at Vingroup Big Data Institute,"Hanoi, Hanoi, Vietnam",Comp Vision Researcher,Vingroup Big Data Institute,Vietnam
+192,master,/ceshine,Data Scientist at Veritable,,Data Scientist,Veritable,unknown
+194,master,/tattaka,Research and development at CG studio,"Tokyo, Tokyo, Japan",Research and development,CG studio,Japan
+195,grandmaster,/qiaojian,R&D at Meituan,"Beijing, Beijing, China",R&D,Meituan,China
+196,master,/takoihiraokazu,Data Scientist at Rist,"Fukuoka, Fukuoka, Japan",Data Scientist,Rist,Japan
+198,expert,/mconway,Data Scientist at Scottfree Analytics,United States,Data Scientist,Scottfree Analytics,United States
+199,grandmaster,/wuyhbb,Engineer at Newsbreak,"Shanghai, Shanghai, China",Engineer,Newsbreak,China
+201,master,/sugawarya,"Kaggler at DeNA Co., Ltd","Tokyo, Tokyo, Japan",Kaggler,"DeNA Co., Ltd",Japan
+202,expert,/muhakabartay,Data Scientist at Kepler-62f,"Paris, Île-de-France, France",Data Scientist,Kepler-62f,France
+203,master,/css919,Machine Learning Scientist at Turing.com,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",Machine Learning Scientist,Turing.com,Malaysia
+204,grandmaster,/zaharch,data scientist at Smart Steel Technologies,"Berlin, Berlin, Germany",data scientist,Smart Steel Technologies,Germany
+205,grandmaster,/yuval6967,VP R&D at D-Fend,"Tel Aviv-Yafo, Tel Aviv District, Israel",VP R&D,D-Fend,Israel
+206,grandmaster,/mlandry,Data Scientist at H2O.ai,"Austin, Texas, United States",Data Scientist,H2O.ai,United States
+207,master,/inoueu1,PhD student at Kyoto University,"Kyoto, Kyoto, Japan",PhD student,Kyoto University,Japan
+210,master,/narsil,Head of Data Science at AdColony,"Warsaw, Masovian Voivodeship, Poland",Head of Data Science,AdColony,Poland
+211,master,/drhabib,Scientist at HHMI,"Ashburn, Virginia, United States",Scientist,HHMI,United States
+212,grandmaster,/chlxyd,RSDE at Microsoft Research Asia,"Beijing, Beijing, China",RSDE,Microsoft,China
+219,master,/arthurllau,Head of Research at Flowlity,"Paris, Île-de-France, France",Head of Research,Flowlity,France
+221,master,/yukkyo,Engineer at Rist Inc.,"Kyoto, Kyoto, Japan",Engineer,Rist Inc.,Japan
+223,master,/runningz,Master at BUAA,"Beijing, Beijing, China",Master,BUAA,China
+226,grandmaster,/mathormad,Co-Founder & Chief Data Engineer at Palexy,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",Co-Founder & Chief Data Engineer,Palexy,Vietnam
+229,expert,/nuhsikander,Lead Data Scientist at Analytics Private Limited,"Lahore, Punjab, Pakistan",Lead Data Scientist,Analytics Private Limited,Pakistan
+231,master,/tomyanabe,Graduate student at Keio University,"Tokyo, Tokyo, Japan",Graduate student,Keio University,Japan
+232,grandmaster,/amiras,Computer Vision Engineer at checklens.ai,"Salzburg, Salzburg, Austria",Computer Vision Engineer,checklens.ai,Austria
+233,grandmaster,/wochidadonggua,( º﹃º ) at ⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾,"Beijing, Beijing, China",( º﹃º ),⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾,China
+235,master,/sneddy,AI Engineer at Harrison.ai,"Sydney, New South Wales, Australia",AI Engineer,Harrison.ai,Australia
+236,master,/backaggle,AI Research Engineer at VinAI,"Hanoi, Hanoi, Vietnam",AI Research Engineer,VinAI,Vietnam
+237,master,/ogrellier,Data Scientist at H2O.ai,"Quimper, Brittany, France",Data Scientist,H2O.ai,France
+238,expert,/grapestone5321,Student at Udacity,"Hiroshima, Hiroshima, Japan",Student,Udacity,Japan
+239,grandmaster,/sgalib,Data Scientist at H2O.ai,"Austin, Texas, United States",Data Scientist,H2O.ai,United States
+241,master,/yujiariyasu,Data Scientist at Aillis Inc.,"Tokyo, Tokyo, Japan",Data Scientist,Aillis Inc.,Japan
+245,master,/arc144,Senior Data Scientist at Sprout.ai,"Campinas, State of São Paulo, Brazil",Senior Data Scientist,Sprout.ai,Brazil
+246,expert,/rsinda,Data Scientist at Embibe,"Falna, Rajasthan, India",Data Scientist,Embibe,India
+247,grandmaster,/alexxanderlarko,CEO at CJSC  «Infocentre»,"Minusinsk, Krasnoyarsk Krai, Russia",CEO,CJSC  «Infocentre»,Russia
+249,grandmaster,/pengyan,Researcher at MeiTuan,"Beijing, Beijing, China",Researcher,MeiTuan,China
+251,grandmaster,/romul0212,Tech Lead at osai.ai,"Moscow, Russia",Tech Lead,osai.ai,Russia
+253,master,/tezdhar,Data Scientist at OKCredit,"Bengaluru, Karnataka, India",Data Scientist,OKCredit,India
+256,master,/panosc,"Senior Researcher at European Commission, Joint Research Centre","Seville, Andalusia, Spain",Senior Researcher,"European Commission, Joint Research Centre",Spain
+259,master,/ryunosukeishizaki,University Student / Researcher at NABLAS.inc,"Yokohama, Kanagawa, Japan",University Student / Researcher,NABLAS.inc,Japan
+260,expert,/rakeshptiwari,Researcher at  ,"Montreal, Quebec, Canada",Researcher,,Canada
+262,master,/oyxuan,student at Zhejiang University,"Hangzhou, Zhejiang, China",student,Zhejiang University,China
+263,master,/sergeyzlobin,Software Engineer at ABBYY,"Moscow, Russia",Software Engineer,ABBYY,Russia
+266,expert,/harijscerins,R&D Engineer at Lightguide,"Līvāni, Latvia",R&D Engineer,Lightguide,Latvia
+269,master,/rvslight,Software Engineer at Samsung Electronics,"Seongnam-si, Gyeonggi-do, South Korea",Software Engineer,Samsung Electronics,South Korea
+271,master,/atanasova,Deep Learning at DataRobot,"Sofia, Sofia City Province, Bulgaria",Deep Learning,DataRobot,Bulgaria
+272,master,/a763337092,Master degree graduates at Tsinghua University,"Beijing, Beijing, China",Master degree graduates,Tsinghua University,China
+277,grandmaster,/godaibo,"Founder  at Analytical AI, Chartgard",United States,Founder,"Analytical AI, Chartgard",United States
+278,grandmaster,/mchahhou,Professor at Faculty of Science Tetouan,"Tetouan, Tangier-Tétouan-Al Hoceima, Morocco",Professor,Faculty of Science Tetouan,Morocco
+281,master,/ymatioun,Actuary at New York Life Ins Co,"White Plains, New York, United States",Actuary,New York Life Ins Co,United States
+284,expert,/veeralakrishna,Data Scientist at NA,"Bengaluru, Karnataka, India",Data Scientist,,India
+286,master,/ryches,Data Scientist at H2O,"San Diego, California, United States",Data Scientist,H2O.AI,United States
+287,master,/super13579,Data Scientist at MUEN AI,"Taipei, Taiwan",Data Scientist,MUEN AI,Taiwan
+289,master,/amedprof,Data Scientist at  Metro France,"Paris, Île-de-France, France",Data Scientist,Metro France,France
+290,expert,/felixoneberlin,PhD candidate at RWTH Aachen University,"Berlin, Berlin, Germany",PhD candidate,RWTH Aachen University,Germany
+292,master,/rishigami,ᐠ(   ᐢ ᵕ ᐢ )ᐟ at 　,"Tokyo, Tokyo, Japan",ᐠ(   ᐢ ᵕ ᐢ )ᐟ,,Japan
+295,master,/shivamcyborg,Data & Applied Scientist at Microsoft,"Bengaluru, Karnataka, India",Data & Applied Scientist,Microsoft,India
+296,master,/soloway,Lead Data Scientist at Adriver LLC,"Saint Petersburg, Russia",Lead Data Scientist,Adriver LLC,Russia
+302,grandmaster,/pavelost,Team Leader of Image Processing Group at Huawei Technologies,"Moscow, Russia",Team Leader of Image Processing Group,Huawei Technologies,Russia
+304,master,/mmelahi,NA at NA,"Miryalaguda, Telangana, India",,,India
+307,master,/hughshaoqz,Scientist at JD Digits AI Lab,"Mountain View, California, United States",Scientist,JD Digits AI Lab,United States
+308,master,/kozodoi,PhD сandidate at HU Berlin,"Berlin, Berlin, Germany",PhD сandidate,HU Berlin,Germany
+311,master,/mark4h,Data Scientist at  ,"Bracknell, England, United Kingdom",Data Scientist,,United Kingdom
+313,master,/sinpcw,Researcher at nssol,"Yokohama, Kanagawa, Japan",Researcher,nssol,Japan
+314,master,/trytolose,Data scientist at Severstal,"Moscow, Russia",Data scientist,Severstal,Russia
+315,master,/currypurin,kaggler at data-refinement,"Tokyo, Tokyo, Japan",kaggler,data-refinement,Japan
+317,master,/darkcoeus,"PhD student at cuhk, mmlab",Hong Kong,PhD student,"cuhk, mmlab",Hong Kong
+318,grandmaster,/brandenkmurray,Data Scientist at h2o.ai,"California, United States",Data Scientist,h2o.ai,United States
+321,expert,/nyleve,Research Engineer at Merry,"Singapore, Singapore",Research Engineer,Merry,Singapore
+322,master,/dmitriyguller,Actuary at AIG,United States,Actuary,AIG,United States
+323,master,/vladimirsydor,Deep Learning engineer at Respeecher,"Kyiv, Ukraine",Deep Learning engineer,Respeecher,Ukraine
+324,master,/nywenjing,Senior AI Engineer at Ankobot Singapore,"Singapore, Singapore",Senior AI Engineer,Ankobot Singapore,Singapore
+325,master,/chemicaltoilet,   at   ,"New York, New York, United States",,,United States
+326,master,/ren4yu,Research Engineer at Mobility Technologies,"Tokyo, Tokyo, Japan",Research Engineer,Mobility Technologies,Japan
+328,master,/nejumi,hoge at hoge,"Tokyo, Tokyo, Japan",hoge,hoge,Japan
+330,master,/sunghun,Data Scientist at Korea Telecom,"Seongnam-si, Gyeonggi-do, South Korea",Data Scientist,Korea Telecom,South Korea
+332,grandmaster,/kelexu,Nobody at Skyland,"Changsha, Hunan, China",Nobody,Skyland,China
+333,master,/ttahara,Research & Development Engineer at a JTC,"Yokohama, Kanagawa, Japan",Research & Development Engineer,a JTC,Japan
+335,master,/kaerunantoka,ML Engineer at DMM.com,"Tokyo, Tokyo, Japan",ML Engineer,DMM.com,Japan
+336,master,/hirune924,Researcher at NSSOL,"Yokohama, Kanagawa, Japan",Researcher,NSSOL,Japan
+337,expert,/ryutek,Software Engineer at Microsoft,"Seattle, Washington, United States",Software Engineer,Microsoft,United States
+338,expert,/rolandw0w,Senior Software Engineer at Parimatch,"Kyiv, Ukraine",Senior Software Engineer,Parimatch,Ukraine
+341,expert,/janosk21,"Director AI, Innovation Hub at Baxter Int","Munich, Bavaria, Germany","Director AI, Innovation Hub",Baxter Int,Germany
+343,expert,/olgaiv39,ML Engineer at Sharper Shape,"Minsk, Minsk Region, Belarus",ML Engineer,Sharper Shape,Belarus
+344,master,/yiheng,Algorithm Engineer at UGuess,"Shanghai, Shanghai, China",Algorithm Engineer,UGuess,China
+345,master,/strider1125,Prayer at KyoAni,"New York, New York, United States",Prayer,KyoAni,United States
+346,expert,/shivammittal274,Student at Netaji Subhas University of Technology,"Delhi, Delhi, India",Student,Netaji Subhas University of Technology,India
+347,master,/chenxin1991,Data mining at Netease,"Guangzhou, Guangdong Province, China",Data mining,Netease,China
+349,expert,/akashsuper2000,Student at Amrita School Of Engineering,"Chennai, Tamil Nadu, India",Student,Amrita School Of Engineering,India
+350,expert,/siavrez,Data Scientist at  SE,"Berlin, Berlin, Germany",Data Scientist,SE,Germany
+352,master,/igorkrashenyi,Research Engineer at PF,"Kyiv, Ukraine",Research Engineer,PF,Ukraine
+355,master,/maxjeblick,Data Scientist at H2O.ai,"Munich, Bavaria, Germany",Data Scientist,H2O.ai,Germany
+356,expert,/ynishizono,Biologist at Astellas  Pharma,"Tsukuba, Ibaraki, Japan",Biologist,Astellas  Pharma,Japan
+357,master,/crabapple,Engineer at agora.io,"Shanghai, Shanghai, China",Engineer,agora.io,China
+361,master,/kirillshipitsyn,Software Developer at CQG,"Moscow, Russia",Software Developer,CQG,Russia
+362,master,/santiagomota,CDO at Grupo Sociedad de Tasacion,"Madrid, Community of Madrid, Spain",CDO,Grupo Sociedad de Tasacion,Spain
+364,grandmaster,/ekydna,Data scientist at Datalytica,"Chelyabinsk, Chelyabinsk Oblast, Russia",Data scientist,Datalytica,Russia
+366,master,/bmcinnovo,Data Scientist at BMCI,"San Antonio, Texas, United States",Data Scientist,BMCI,United States
+369,master,/slimcat,Master at BUAA,"Beijing, Beijing, China",Master,BUAA,China
+371,master,/sakami,Data Scientist at DeNA,"Tokyo, Tokyo, Japan",Data Scientist,DeNA,Japan
+372,expert,/tianyiy,analyst at scippc,"Norman, Oklahoma, United States",analyst,scippc,United States
+374,master,/tanulsingh077,NLP Engineer at Javis,"Mumbai, Maharashtra, India",NLP Engineer,Javis,India
+375,expert,/headsortails,curious at heart,"San Francisco, California, United States",curious,heart,United States
+377,master,/pukkinming,Software Engineer at Amobee,"Washington, District of Columbia, United States",Software Engineer,Amobee,United States
+378,master,/corochann,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+379,expert,/cedricdamien,Quantitative Researcher at Squarepoint,"Palaiseau, Île-de-France, France",Quantitative Researcher,Squarepoint,France
+380,expert,/a45632,IT Architect at ING,"Brussels, Brussels, Belgium",IT Architect,ING,Belgium
+381,grandmaster,/xiaozhouwang,Co-founder at Quartic.ai,"Toronto, Ontario, Canada",Co-founder,Quartic.ai,Canada
+385,master,/hmdhmd,Novice at GiXo,"Tokyo, Tokyo, Japan",Novice,GiXo,Japan
+387,expert,/akirahirohashi,"software engineer at GMO Research, Inc.","Kawasaki, Kanagawa, Japan",software engineer,"GMO Research, Inc.",Japan
+388,master,/dicksonchin93,Senior Deep Learning Engineer at DataRobot,"Muar, Johor, Malaysia",Senior Deep Learning Engineer,DataRobot,Malaysia
+390,expert,/rohitsingh9990,Data Scientist at PVKL Tech Services Pvt. Ltd.,"Pune, Maharashtra, India",Data Scientist,PVKL Tech Services Pvt. Ltd.,India
+395,master,/meminozturk,Lead Data Scientist at Afiniti,"Istanbul, Istanbul, Turkey",Lead Data Scientist,Afiniti,Turkey
+396,expert,/takahiro3110,Engineer at Spectra-Pyisics,"Tokyo, Tokyo, Japan",Engineer,Spectra-Pyisics,Japan
+397,master,/dmitriyab,Researcher at Huawei,"Moscow, Russia",Researcher,Huawei,Russia
+400,expert,/nickmamonov,Senior Data Scientist at GoodsForecast,"Moscow, Russia",Senior Data Scientist,GoodsForecast,Russia
+401,expert,/izktmys,Researcher at Japanese Tech Company,"Tokyo, Tokyo, Japan",Researcher,Japanese Tech Company,Japan
+403,master,/louise2001,Data Science Ambassador at HP & NVIDIA,"Paris, Île-de-France, France",Data Science Ambassador,HP & NVIDIA,France
+405,master,/maxwell110,"Senior Data Scientist, Actuary at AXA Life Japan","Tokyo, Tokyo, Japan","Senior Data Scientist, Actuary",AXA Life Japan,Japan
+406,master,/jpison,Prof. at University of La Rioja,"Logroño, La Rioja, Spain",Prof.,University of La Rioja,Spain
+408,expert,/sionek,security engineer at Atos,"Bydgoszcz, Kuyavian-Pomeranian Voivodeship, Poland",security engineer,Atos,Poland
+410,grandmaster,/baomengjiao,master student at Beihang University,"Beijing, Beijing, China",master student,Beihang University,China
+414,grandmaster,/fengari,RSDE at Microsoft Research Asia,"Beijing, Beijing, China",RSDE,Microsoft,China
+416,master,/robga,Technologist at  ,"London, England, United Kingdom",Technologist,,United Kingdom
+418,master,/cashfeg,Data Science Group Manager  at DeNA,"Shibuya City, Tokyo, Japan",Data Science Group Manager,DeNA,Japan
+419,expert,/rsmits,Data Science/ML Engineer at RubiX,"Gelderland, Netherlands",Data Science/ML Engineer,RubiX,Netherlands
+420,master,/yoichi7yamakawa,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+423,master,/pavelgonchar,Senior Machine Learning Engineer at Fyusion,,Senior Machine Learning Engineer,Fyusion,unknown
+425,master,/thoffma,Student at California Institute of Technology,"Pasadena, California, United States",Student,California Institute of Technology,United States
+426,expert,/rjqian,Graduate student at Fudan University,"Shanghai, Shanghai, China",Graduate student,Fudan University,China
+428,expert,/roydatascience,Data Scientist at Scotiabank,"Toronto, Ontario, Canada",Data Scientist,Scotiabank,Canada
+430,expert,/kamalnaithani,Data Scientist at EXL Analytics,"Gurugram, Haryana, India",Data Scientist,EXL Analytics,India
+433,master,/thakurudit,Student at Manipal University Jaipur,"Shimla, Himachal Pradesh, India",Student,Manipal University Jaipur,India
+434,master,/naka2ka,Data Scientist at astamuse,"Tokyo, Tokyo, Japan",Data Scientist,astamuse,Japan
+435,master,/jihangz,Data Analyst at getBIsmart,"Irvine, California, United States",Data Analyst,getBIsmart,United States
+438,expert,/kanbehmw,ML Engineer at ExaWizards,"Yokohama, Kanagawa, Japan",ML Engineer,ExaWizards,Japan
+439,master,/nprokoptsev,Data Scientist at Mail.ru Group,"Moscow, Russia",Data Scientist,Mail.ru Group,Russia
+440,master,/takamichitoda,Data Scientist at AI Shift,"Kawasaki, Kanagawa, Japan",Data Scientist,AI Shift,Japan
+441,expert,/sekrier,Tech Lead at Cisco Systems,"Brussels, Brussels, Belgium",Tech Lead,Cisco Systems,Belgium
+442,expert,/haplophyrne,Student at Scottsdale Prepatory Academy,"Scottsdale, Arizona, United States",Student,Scottsdale Prepatory Academy,United States
+444,master,/arli2016,Engineer at Sberbank,"Moscow, Russia",Engineer,Sberbank,Russia
+445,master,/vlarine,Senior ML Engineer at SberDevices,"Moscow, Russia",Senior ML Engineer,SberDevices,Russia
+446,expert,/marbury,Student at Sun Yat-sen University,"Guangzhou, Guangdong Province, China",Student,Sun Yat-sen University,China
+447,expert,/soham1024,Data Scientist at NeenOpal Inc.,"Kolkata, West Bengal, India",Data Scientist,NeenOpal Inc.,India
+452,master,/izmaylov,Head of DS at Mail.ru Group,"Moscow, Russia",Head of DS,Mail.ru Group,Russia
+453,master,/raghaw,Senior Research Engineer at CDOT,"New Delhi, Delhi, India",Senior Research Engineer,CDOT,India
+454,expert,/proletheus,Kaggler at ZHAW,"Zürich, Zurich, Switzerland",Kaggler,ZHAW,Switzerland
+455,master,/kostoglot,Analyst at Mail.Ru,"Moscow, Russia",Analyst,Mail.ru Group,Russia
+456,expert,/vbmokin,Professor at Vinnytsia National Technical University,"Vinnytsia, Vinnytsia Oblast, Ukraine",Professor,Vinnytsia National Technical University,Ukraine
+457,master,/kashnitsky,Senior Machine Learning Scientist at Elsevier,"Amsterdam, North Holland, Netherlands",Senior Machine Learning Scientist,Elsevier,Netherlands
+460,expert,/takach,Chemist at JTC,"Yabuki, Fukushima, Japan",Chemist,JTC,Japan
+461,grandmaster,/nimashahbazi,President at Mindle.ai,"Toronto, Ontario, Canada",President,Mindle.ai,Canada
+462,expert,/frtgnn,Head of Data Science & Analytics at GETIR,"İstanbul, İstanbul, Turkey",Head of Data Science & Analytics,GETIR,Turkey
+463,expert,/jpmiller,Customer Data Scientist at H2O.ai,"Fort Worth, Texas, United States",Customer Data Scientist,H2O.ai,United States
+464,expert,/imoore,Data scientist at Kertoft,"Moscow, Russia",Data scientist,Kertoft,Russia
+466,master,/mrnnnn,ML engineer at OOO blblbl,"Kursk, Kursk Oblast, Russia",ML engineer,OOO blblbl,Russia
+467,master,/szhitansky,Founder & CEO at Rational Systems,"Vinnytsia, Vinnytsia Oblast, Ukraine",Founder & CEO,Rational Systems,Ukraine
+469,expert,/zzy990106,zzy at featurize,"Beijing, Beijing, China",zzy,featurize,China
+470,master,/konradb,I interrogate data for a living at TNG Quant Consultancy,"Haarlem, North Holland, Netherlands",I interrogate data for a living,TNG Quant Consultancy,Netherlands
+471,master,/atsunorifujita,Data Scientist at Amazon Web Services,"Tokyo, Tokyo, Japan",Data Scientist,Amazon,Japan
+472,expert,/kzkt0713,Research Engineer at NSSOL,"Yokohama, Kanagawa, Japan",Research Engineer,NSSOL,Japan
+475,master,/user189546,Software Engineer - AI at LinkedIn,"San Francisco, California, United States",Software Engineer - AI,LinkedIn,United States
+477,master,/junweima,Machine Learning Scientist at Layer6 AI,"Toronto, Ontario, Canada",Machine Learning Scientist,Layer6AI,Canada
+478,expert,/gopidurgaprasad,Student at IIIT Nuzvidu,"Annavaram, Andhra Pradesh, India",Student,IIIT Nuzvidu,India
+479,expert,/skneko,Engineer at  ,"Tokyo, Tokyo, Japan",Engineer,,Japan
+480,expert,/phoenix9032,AI and ML Enthusiast at Tata Consultancy Services Ltd,"Chennai, Tamil Nadu, India",AI and ML Enthusiast,Tata Consultancy Services,India
+481,expert,/lisr56,student at scut,"Guangzhou, Guangdong Province, China",student,scut,China
+486,master,/mrkmakr,Engineer at Yahoo! Japan,"Kyoto, Kyoto, Japan",Engineer,Yahoo! Japan,Japan
+487,expert,/stanislavblinov,Project Director at Gazprombank,"Moscow, Russia",Project Director,Gazprombank,Russia
+489,expert,/dipetm,"Developer, CV engeneer at Simicon","Saint Petersburg, Russia","Developer, CV engeneer",Simicon,Russia
+490,master,/ywenlu,PhD student at UPMC,"Paris, Île-de-France, France",PhD student,UPMC,France
+491,expert,/soonhwankwon,Deeplearning Engineer at SamsungSDS,"Seoul, Seoul, South Korea",Deeplearning Engineer,Samsung Electronics,South Korea
+497,master,/asanakoev,Computer Vision Researcher at Heidelberg University,"Heidelberg, Baden-Württemberg, Germany",Computer Vision Researcher,Heidelberg University,Germany
+498,master,/amanatsu,Engineer at Rist Inc.,"Tsukuba, Ibaraki, Japan",Engineer,Rist Inc.,Japan
+499,grandmaster,/ikibardin,Machine Learning Engineer at Yandex,"Moscow, Russia",Machine Learning Engineer,Yandex,Russia
+502,master,/ziliwang,NLP engineer at Chengdu,"Chengdu, Sichuan, China",NLP engineer,Chengdu,China
+506,master,/romavlasov,Head of Machine Learning at XIX.ai,"San Francisco, California, United States",Head of Machine Learning,XIX.ai,United States
+507,expert,/neibyr,Data Scientist at Sber AI Lab,"Moscow, Russia",Data Scientist,Sber AI Lab,Russia
+508,expert,/yuomori,Data Scientist at Information Services International-Dentsu,"Tokyo, Tokyo, Japan",Data Scientist,Information Services International-Dentsu,Japan
+512,master,/felipefonte99,Data Quality at Mediar Solutions,"Belo Horizonte, State of Minas Gerais, Brazil",Data Quality,Mediar Solutions,Brazil
+513,expert,/dannykm,Undergraduate at Kyunghee University ,"Goyang-si, Gyeonggi-do, South Korea",Undergraduate,Kyunghee University,South Korea
+514,expert,/yeeshu11,Data Scientist at Citi,"Bengaluru, Karnataka, India",Data Scientist,Citi,India
+515,master,/kingychiu,Software Engineer at Clover Health,"Hong Kong, Hong Kong",Software Engineer,Clover Health,Hong Kong
+516,expert,/zlanan,A naive student at CV,"Shanghai, Shanghai, China",A naive student,CV,China
+517,grandmaster,/sushize,Data & Applied Scientist at Microsoft,"Bellevue, Washington, United States",Data & Applied Scientist,Microsoft,United States
+519,expert,/ryotak12,Student at Kyushu University,"Fukuoka, Fukuoka, Japan",Student,Kyushu University,Japan
+520,master,/stecasasso,Data Scientist at Expedia Group,"Geneva, Geneva, Switzerland",Data Scientist,Expedia Group,Switzerland
+522,master,/moizsaifee,Principal at Correlation Ventures,"Indore, Madhya Pradesh, India",Principal,Correlation Ventures,India
+523,expert,/yuvaramsingh,Lead engineer at HCL technologies,"Chennai, Tamil Nadu, India",Lead engineer,HCL technologies,India
+524,master,/mindcool,Data Scientist at Brazilian Court of Audit,"Brasília, Federal District, Brazil",Data Scientist,Brazilian Court of Audit,Brazil
+525,master,/jaideepvalani,Consultant at TCS,"Bengaluru, Karnataka, India",Consultant,TCS,India
+527,expert,/haochensui,"Student at University of Michigan, Ann Arbor","Ann Arbor, Michigan, United States",Student,"University of Michigan, Ann Arbor",United States
+528,expert,/nejicool96,AI developer at FPT Software,"Hanoi, Hanoi, Vietnam",AI developer,FPT Software,Vietnam
+529,expert,/jleecook,"Actuary, FSA at Society of Actuaries","Detroit, Michigan, United States","Actuary, FSA",Society of Actuaries,United States
+534,expert,/vikrant06,Data Scientist at HSBC ,"Bengaluru, Karnataka, India",Data Scientist,HSBC,India
+535,master,/uiiurz1,ML Engineer at JTC,"Kawasaki, Kanagawa, Japan",ML Engineer,JTC,Japan
+542,master,/rhgrossm,ML Engineer at Kensho Technologies,"Cambridge, Massachusetts, United States",ML Engineer,Kensho Technologies,United States
+543,grandmaster,/lopuhin,Software engineer at Scrapinghub,"Moscow, Russia",Software engineer,Scrapinghub,Russia
+544,master,/mihaskalic,Research scientist at Boehringer Ingelheim,"Ulm, Baden-Württemberg, Germany",Research scientist,Boehringer Ingelheim,Germany
+546,expert,/anuragtr,Data Scientist at IQVIA,"Bengaluru, Karnataka, India",Data Scientist,IQVIA,India
+555,expert,/xiaojin712,Data Scientist at YS,"Zhuhai, Guangdong Province, China",Data Scientist,YS,China
+558,expert,/kupchanski,CV engineer at Everypixel,"Chelyabinsk, Chelyabinsk Oblast, Russia",CV engineer,Everypixel,Russia
+559,expert,/xmpgek,Computer Vision Team Leader at iTechArt Group,"Minsk, Minsk Region, Belarus",Computer Vision Team Leader,iTechArt Group,Belarus
+561,expert,/yhirano,"Engineer at Preferred Networks, inc.","Tokyo, Tokyo, Japan",Engineer,"Preferred Networks, inc.",Japan
+562,expert,/tangshuyun,Master student at UC Berkeley,"Santa Barbara, California, United States",Master student,UC Berkeley,United States
+563,expert,/agavranis,Researcher at Uth,"Volos, Greece",Researcher,Uth,Greece
+564,expert,/mekhdigakhramanian,Head of Digital Marketing at Amacorp | Machine learning enthusiast,"Moscow, Russia",Head of Digital Marketing,Amacorp | Machine learning enthusiast,Russia
+565,expert,/onlise,Northern at Lights,"Ushuaia, Tierra del Fuego Province, Argentina",Northern,Lights,Argentina
+566,expert,/a406161167,Student at Tsinghua,"Nanjing, Jiangsu, China",Student,Tsinghua,China
+567,master,/chizhu2018,Student at CQUPT,"Chongqing, Chongqing, China",Student,CQUPT,China
+570,expert,/ajax0564,student at IIT Guwahati,"Prayagraj, Uttar Pradesh, India",student,IIT Guwahati,India
+571,master,/pavel92,"Computer Vision Engineer at Skoltech, GeoAlert","Moscow, Russia",Computer Vision Engineer,"Skoltech, GeoAlert",Russia
+572,expert,/laxmankusuma,data scientist at posidex,"Hyderabad, Telangana, India",data scientist,posidex,India
+573,master,/meliao,Data scientist at Voodoo,"Paris, Île-de-France, France",Data scientist,Voodoo,France
+574,expert,/kazuyukimiyazawa,"Research Engineer at Mobility Technologies Co., Ltd.","Tokyo, Tokyo, Japan",Research Engineer,"Mobility Technologies Co., Ltd.",Japan
+578,master,/analokamus,BEARtificial Intelligence at Aillis Inc.,"Tokyo, Tokyo, Japan",BEARtificial Intelligence,Aillis Inc.,Japan
+579,master,/pheadrus,Data Scientist II at Novartis,"Kolkata, West Bengal, India",Data Scientist II,Novartis,India
+580,expert,/tarandro,Student  at ENSAI,"Colmar, Grand Est, France",Student,ENSAI,France
+581,master,/satrin,Data Scientist at DeNA / Mobility Technologies,"Tokyo, Tokyo, Japan",Data Scientist,dena,Japan
+582,master,/matthieuplante,Student at CYTECH,"Paris, Île-de-France, France",Student,CYTECH,France
+583,expert,/ammarali32,Programmer at ITMO university,"Saint Petersburg, Russia",Programmer,ITMO university,Russia
+584,expert,/duonganhkiet,Student at University Of Science-VNUHCM,"Tây Ninh, Tây Ninh Province, Vietnam",Student,University Of Science-VNUHCM,Vietnam
+585,master,/nhmquang,Machine Learning Engineer at Cybercore,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",Machine Learning Engineer,Cybercore,Vietnam
+586,master,/mnpinto,PhD student at UL,"Lisbon, Lisbon, Portugal",PhD student,UL,Portugal
+587,master,/steubk,data analyst at softlab,"Rome, Lazio, Italy",data analyst,softlab,Italy
+589,master,/guangweiyu,data scientist at layer6 ai,Canada,data scientist,Layer6AI,Canada
+590,master,/pedram,Data Scientist at lums,"Nowhere Creek, Victoria, Australia",Data Scientist,lums,Australia
+591,expert,/deepkim,A Data field worker at Korea Statistics,"Seoul, Seoul, South Korea",A Data field worker,Korea Statistics,South Korea
+592,expert,/pranshu29,Engineering at YellowMessenger,"Noida, Uttar Pradesh, India",Engineering,YellowMessenger,India
+593,master,/leonshangguan,Master Student at University of Rochester,"Rochester, New York, United States",Master Student,University of Rochester,United States
+594,grandmaster,/whitebird,Engineer at 10jqka,"Hangzhou, Zhejiang, China",Engineer,10jqka,China
+596,master,/wangzhaoxu,AI engineer at Archaic,"Tokyo, Tokyo, Japan",AI engineer,Archaic,Japan
+597,expert,/migsr22,Data Scientist at IBM,"Austin, Texas, United States",Data Scientist,IBM,United States
+599,expert,/germanjke,Researcher at Huawei,"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",Researcher,Huawei,Russia
+600,master,/flowlight,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+601,master,/urvishp80,ML Engineer  at Pirimid Fintech,"Ahmedabad, Gujarat, India",ML Engineer,Pirimid Fintech,India
+603,master,/jayjay75,work at @Orange,"Paris, Île-de-France, France",work,@Orange,France
+604,expert,/jbomitchell,Reader in Chemistry at University of St Andrews,"St Andrews, Scotland, United Kingdom",Reader in Chemistry,University of St Andrews,United Kingdom
+605,expert,/drtausamaru,Medical Doctor at うさぎ界,"Osaka, Osaka, Japan",Medical Doctor,うさぎ界,Japan
+607,expert,/tom88jerry,Research fellow at Sprint_electric,"Nottingham, England, United Kingdom",Research fellow,Sprint_electric,United Kingdom
+609,master,/drpatrickchan,CTO/Founder at Amaris.AI,"Singapore, Singapore",CTO/Founder,Amaris.AI,Singapore
+611,master,/kannahashimoto,  at  ,"Tokyo, Tokyo, Japan",,,Japan
+612,master,/jielu0728,Working at Bilibili,"Shanghai, Shanghai, China",Working,Bilibili,China
+614,expert,/crazydiv,Co-Founder at DeepKlarity,"Bengaluru, Karnataka, India",Co-Founder,DeepKlarity,India
+615,master,/kento1993,DataScientist at Recruit,"Tokyo, Tokyo, Japan",DataScientist,Recruit Co. Ltd,Japan
+618,master,/marisakamozz,"Data Scientist at Japan Research Institute, Limited","Tokyo, Tokyo, Japan",Data Scientist,"Japan Research Institute, Limited",Japan
+619,expert,/sandiago21,Machine Learning Engineer at NA,"Athens, Greece",Machine Learning Engineer,,Greece
+623,master,/hitman47,DS Team Lead at Sberbank,"Moscow, Russia",DS Team Lead,Sberbank,Russia
+624,master,/kiccho11,Application Engineer at an EC company,"Sendai, Miyagi, Japan",Application Engineer,an EC company,Japan
+626,expert,/suga93,"Engineer at Preferred Networks, Inc.","Tokyo, Tokyo, Japan",Engineer,"Preferred Networks, Inc.",Japan
+631,master,/zekunn,Student at HUST,"Fuzhou, Fujian, China",Student,HUST,China
+633,master,/carloshuertas,Random Guy at Amazon,"Seattle, Washington, United States",Random Guy,Amazon,United States
+636,master,/eemonn,hoge at fuga,"Tokyo, Tokyo, Japan",hoge,fuga,Japan
+639,master,/rdizzl3,Lead Data Scientist at Tesorio,"Los Angeles, California, United States",Lead Data Scientist,Tesorio,United States
+640,expert,/r1cky7,Machine Learning Engineer at Araya Inc.,"Tokyo, Tokyo, Japan",Machine Learning Engineer,Araya Inc.,Japan
+642,expert,/mtodisco10,Data Scientist at Splash,"New York, New York, United States",Data Scientist,Splash,United States
+644,expert,/jt120lz,AI at Moka,"Beijing, Beijing, China",AI,Moka,China
+647,master,/thedrcat,Data Science at P&G,"Warsaw, Masovian Voivodeship, Poland",Data Science,P&G,Poland
+649,expert,/gpreda,Data Scientist at Endava,"Bucharest, Bucharest, Romania",Data Scientist,Endava,Romania
+652,expert,/hannes82,Researcher and Data Scientist at German Development Institute,"Bonn, North Rhine-Westphalia, Germany",Researcher and Data Scientist,German Development Institute,Germany
+655,expert,/andrewshevelev,Junior Researcher at IEIE SB RAS,"Novosibirsk, Novosibirsk Oblast, Russia",Junior Researcher,IEIE SB RAS,Russia
+656,expert,/arunkumarramanan,"AI Researcher, Machine Learning Practitioner at DeepBrainz AI","Bengaluru, Karnataka, India","AI Researcher, Machine Learning Practitioner",DeepBrainz AI,India
+657,master,/baogorek,Data Scientist / ML Engineer at Nousot @ Facebook,"Chicago, Illinois, United States",Data Scientist / ML Engineer,Nousot @ Facebook,United States
+661,expert,/ryuichigt,Musician at DentsuDigital,"Tokyo, Tokyo, Japan",Musician,DentsuDigital,Japan
+664,expert,/truonghoang,Data scientist at FPT Software VN,"Ho Chi Minh City, Ho Chi Minh City, Vietnam",Data scientist,FPT Software VN,Vietnam
+666,expert,/luji01,CS student at TU Munich,"Munich, Bavaria, Germany",CS student,TU Munich,Germany
+668,master,/yuooka,Data Scientist at GMO Internet,"Tokyo, Tokyo, Japan",Data Scientist,GMO Internet,Japan
+669,master,/opanichev,R&D Engineer at Ciklum,"Kyiv, Ukraine",R&D Engineer,Ciklum,Ukraine
+670,expert,/yasagure,student at the University of Tokyo,"Tokyo, Tokyo, Japan",student,University of Tokyo,Japan
+672,expert,/opu2aki,Data Scientist? at EC Service,"Tokyo, Tokyo, Japan",Data Scientist?,EC Service,Japan
+673,expert,/josephjzk,PhD Student at Mines ParisTech,"Paris, Île-de-France, France",PhD Student,Mines ParisTech,France
+674,expert,/jaskirat409,AI/ML Engineer at Tata Consultancy Services,"New Delhi, Delhi, India",AI/ML Engineer,Tata Consultancy Services,India
+675,expert,/fabiendaniel,Data Scientist at Continental,"Toulouse, Occitanie, France",Data Scientist,Continental,France
+676,master,/alexandrecc,"MD, Radiologist, Computer engineer at CISSSL","Saint-Charles-Borromée, Quebec, Canada","MD, Radiologist, Computer engineer",CISSSL,Canada
+677,master,/akirasosa,DS at VFA,"Yokohama, Kanagawa, Japan",DS,VFA,Japan
+678,expert,/allmendinger,Simulation Engineering at PPI-Informatik,"Stuttgart, Baden-Württemberg, Germany",Simulation Engineering,PPI-Informatik,Germany
+679,expert,/balraj98,Data Scientist at Microland,"Bengaluru, Karnataka, India",Data Scientist,Microland,India
+680,expert,/iwatatakuya,Data scientist at NTT DATA,"Tokyo, Tokyo, Japan",Data scientist,NTT DATA,Japan
+686,expert,/la4laaa,Engineer at Preferred Networks,"Tokyo, Tokyo, Japan",Engineer,Preferred Networks,Japan
+689,expert,/scumufeng,master at SCU,"Chengdu, Sichuan, China",master,SCU,China
+693,master,/liderchang,"Ph.D. in ECE at University of Florida, U.S.","Ludlow, Massachusetts, United States",Ph.D. in ECE,"University of Florida, U.S.",United States
+694,master,/yangddd,engineer at Newsbreak,"Shanghai, Shanghai, China",engineer,Newsbreak,China
+696,master,/jeongyoonlee,Sr. Research Scientist at Netflix,"Los Angeles, California, United States",Sr. Research Scientist,Netflix,United States
+698,expert,/amitkumarjaiswal,Research Engineer at University of Leeds,"London, England, United Kingdom",Research Engineer,University of Leeds,United Kingdom
+701,master,/billbafare,Survey Corps at Paradis Island,"New York, New York, United States",Survey Corps,Paradis Island,United States
+702,expert,/mychen,Undergraduate Student at Columbia University (CC'24),"New York, New York, United States",Undergraduate Student,Columbia University (CC'24),United States
+704,master,/rinnqd,Machine Learning Engineer at boost.ai,"Stavanger, Rogaland, Norway",Machine Learning Engineer,boost.ai,Norway
+706,expert,/felipebihaiek,Data scientist at Mercadolibre,"Buenos Aires, Buenos Aires, Argentina",Data scientist,Mercadolibre,Argentina
+709,expert,/dysonlin,Founder & CEO at Taiwan Quake Forecast Institute,Taiwan,Founder & CEO,Taiwan Quake Forecast Institute,Taiwan
+710,master,/axel81,Software Engineer at InMobi,"Bengaluru, Karnataka, India",Software Engineer,InMobi,India
+711,grandmaster,/pocketsuteado,Kaggler at DeNA,"Tokyo, Tokyo, Japan",Kaggler,DeNA,Japan
+714,expert,/ajaykumar7778,Computer Engineering Masters at Virginia Tech,"Blacksburg, Virginia, United States",Computer Engineering Masters,Virginia Tech,United States
+716,master,/ttagu99,Principal Software Engineer at Samsung Display,"Asan-si, Chungcheongnam-do, South Korea",Principal Software Engineer,Samsung Display,South Korea
+718,expert,/vzaguskin,CV  Engineer at MTS,"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",CV  Engineer,MTS,Russia
+719,expert,/ratan123,Student at GVPCOE,"Visakhapatnam, Andhra Pradesh, India",Student,GVPCOE,India
+723,expert,/zachliu,Ph.D. Candidate at University of Rochester,"Rochester, New York, United States",Ph.D. Candidate,University of Rochester,United States
+724,expert,/prasunmishra,VP at Tavant,"San Francisco, California, United States",VP,Tavant,United States
+725,grandmaster,/alexryzhkov,Head of AutoML Team at Sber AI Lab,"Moscow, Russia",Head of AutoML Team,Sber AI Lab,Russia
+730,expert,/fanwenping,Hard-working Farmer at Tsinghua,"Amerang, Bavaria, Germany",Hard-working Farmer,Tsinghua,Germany
+732,expert,/alimbekovkz,Data Scientist at Almaty,"Almaty, Almaty Province, Kazakhstan",Data Scientist,Almaty,Kazakhstan
+733,expert,/hengzheng,Newbie at ML,"Guangzhou, Guangdong Province, China",Newbie,ML,China
+738,expert,/steaphan,High peformance computing Engineer at ASTRI,"Hong Kong, Hong Kong",High peformance computing Engineer,ASTRI,Hong Kong
+739,master,/yslee04,AI Scientist at MNC,"Seoul, Seoul, South Korea",AI Scientist,MNC,South Korea
+740,expert,/abh001,AI Engineer at Innovation Incubator Advisory,"Thiruvananthapuram, Kerala, India",AI Engineer,Innovation Incubator Advisory,India
+741,expert,/anthonymarcz,R&D engineer at Marvel-Tech,"Shanghai, Shanghai, China",R&D engineer,Marvel-Tech,China
+742,master,/hugejj,Emoji at University of Toronto,"Toronto, Ontario, Canada",Emoji,University of Toronto,Canada
+743,expert,/creatrol,"Data Engineer, Analytics at Instagram","New York, New York, United States","Data Engineer, Analytics",Instagram,United States
+744,expert,/chubasik,Student at MSTU,"Moscow, Russia",Student,MSTU,Russia
+746,expert,/gengzll,dd at dd,"Ansbach, Bavaria, Germany",dd,dd,Germany
+748,expert,/speedwagon,Student at Innopolis University,"Innopolis, Republic of Tatarstan, Russia",Student,Innopolis University,Russia
+749,expert,/hsinwenchang,Student at Udacity,"Taipei, Taiwan",Student,Udacity,Taiwan
+752,expert,/maxmar,Following at The White Rabbit,"Nizhny Novgorod, Nizhny Novgorod Oblast, Russia",Following,The White Rabbit,Russia
+754,master,/bhilai,Data Scientist at Layer6AI,"Toronto, Ontario, Canada",Data Scientist,Layer6AI,Canada
+755,grandmaster,/action,student at JNU,"Wuxi, Jiangsu, China",student,JNU,China
+756,expert,/vineeth1999,Student at NITT,"Chennai, Tamil Nadu, India",Student,NITT,India
+759,master,/panpan7967,Quant at HFT,"Houston, Texas, United States",Quant,HFT,United States
+760,expert,/ligtfeather,Data Scientist at Analytics Vidhya,"Bengaluru, Karnataka, India",Data Scientist,Analytics Vidhya,India
+761,expert,/youngno,"Radiologist at Sesonneun Orthopedics Hospital, Seoul","Seoul, Seoul, South Korea",Radiologist,"Sesonneun Orthopedics Hospital, Seoul",South Korea
+763,master,/firenero,Senior Software Engineer at ggCircuit,"Zaporizhzhia, Zaporizhia Oblast, Ukraine",Senior Software Engineer,ggCircuit,Ukraine
+766,expert,/haoyuanwu,stu at SUN YAT-SEN UNIVERSITY,"Guangzhou, Guangdong Province, China",stu,SUN YAT-SEN UNIVERSITY,China
+767,expert,/belgrader,Database Developer at Vervent Card,"Sioux Falls, South Dakota, United States",Database Developer,Vervent Card,United States
+768,expert,/abhishekgbhat,Associate Data Scientist at Royal Dutch Shell,"Chennai, Tamil Nadu, India",Associate Data Scientist,Royal Dutch Shell,India
+769,expert,/chengjiun,Data Scientist at Pinkoi,"Taipei, Taiwan",Data Scientist,Pinkoi,Taiwan
+770,expert,/chandanverma,Data Science Consultant at Zee Enterprise Entertainment,"Mumbai, Maharashtra, India",Data Science Consultant,Zee Enterprise Entertainment,India
+774,expert,/moromoromoro,DS at  Hitachi Ltd.,"Tokyo, Tokyo, Japan",DS,Hitachi Ltd.,Japan
+777,expert,/dimitreoliveira,"Data Scientist | Google Developer Expert on Machine Learning at Virtus, UFCG","Campina Grande, State of Paraíba, Brazil",Data Scientist | Google Developer Expert on Machine Learning,"Virtus, UFCG",Brazil
+782,master,/guchio3,Data Scientist at DeNA,"Tokyo, Tokyo, Japan",Data Scientist,DeNA,Japan
+785,expert,/kshintani,Project Manager at Toyota,"Nagoya, Aichi, Japan",Project Manager,Toyota,Japan
+788,master,/praveenadepu,Sr. Data Scientist at Wesfarmers,"Melbourne, Victoria, Australia",Sr. Data Scientist,Wesfarmers,Australia
+791,master,/rooshroosh,Lead Resercher at Mail Ru Group,"Moscow, Russia",Lead Resercher,Mail.ru Group,Russia
+793,master,/cengc13,Graduate student at Brown University,"Providence, Rhode Island, United States",Graduate student,Brown University,United States
+794,master,/seuguh,France Lab at IBM,"Paris, Île-de-France, France",France Lab,IBM,France
+796,expert,/mlconsult,Partner & Chief AI Engineer at Erskine Law,"Knoxville, Tennessee, United States",Partner & Chief AI Engineer,Erskine Law,United States
+797,expert,/eugenkeil,Software Developer at Freiheit.com Technologies,"Hamburg, Hamburg, Germany",Software Developer,Freiheit.com Technologies,Germany
+798,expert,/chankhavu,Software Engineer at Microsoft,"Seattle, Washington, United States",Software Engineer,Microsoft,United States
+799,expert,/jamesrequa,Entrepreneur | DL Enthusiast at LA,"Los Angeles, California, United States",Entrepreneur | DL Enthusiast,LA,United States
+800,master,/jionie,Researcher at Tencent,"Shenzhen, Guangdong Province, China",Researcher,Tencent,China
+801,expert,/dwchen,Working at China Mobile Research Ins.,"Beijing, Beijing, China",Working,China Mobile Research Ins.,China
+802,expert,/brotye,Machine Learning Engineer at Mansa,"London, England, United Kingdom",Machine Learning Engineer,Mansa,United Kingdom
+804,master,/wispzero,Techlead at X5,"Moscow, Russia",Techlead,X5,Russia
+805,master,/tianshuaifei,ggs at ddu,"Beijing, Beijing, China",ggs,ddu,China
+808,expert,/hamishdickson,Lead Data Scientist at Sprout.ai,"London, England, United Kingdom",Lead Data Scientist,Sprout.ai,United Kingdom
+810,master,/adam9500370,Software Engineer at Realtek Semiconductor Corp.,Taiwan,Software Engineer,Realtek Semiconductor Corp.,Taiwan
+811,master,/tungmphung,Graduate Student at Saarland University,"Saarbrücken, Saarland, Germany",Graduate Student,Saarland University,Germany
+813,master,/felipekitamura,Head of AI at DASA,"São Paulo, State of São Paulo, Brazil",Head of AI,DASA,Brazil
+815,master,/vladimirgroza,Senior DL Research Scientist at Median Technologies,France,Senior DL Research Scientist,Median Technologies,France
+816,expert,/yukke42,Master's student at The University of Tokyo,"Tokyo, Tokyo, Japan",Master's student,University of Tokyo,Japan
+819,expert,/lahoudalan,PhD Student at Orebro University,"Örebro, Örebro County, Sweden",PhD Student,Orebro University,Sweden
+821,expert,/kotaiizuka,Software Engineer at Fixstars Corp.,"Tokyo, Tokyo, Japan",Software Engineer,Fixstars Corp.,Japan
+822,expert,/verracodeguacas,PhD in Operations Engineering at University of Michigan,"New York, New York, United States",PhD in Operations Engineering,University of Michigan,United States
+823,master,/kyazuki,Data Scientist at DeNA,"Tokyo, Tokyo, Japan",Data Scientist,DeNA,Japan
+824,expert,/elouay,Data Scientist at IMT Atlantique,"Paris, Île-de-France, France",Data Scientist,IMT Atlantique,France
+826,master,/kenmatsu4,Data Scientist at DeNA / Mobility Technologies,"Tokyo, Tokyo, Japan",Data Scientist,dena,Japan
+827,expert,/mbonardi,Developer at TangoMidia,"São Paulo, State of São Paulo, Brazil",Developer,TangoMidia,Brazil
+829,expert,/tmhrkt,Student at Nagoya Institute of Technology,"Nagoya, Aichi, Japan",Student,Nagoya Institute of Technology,Japan
+830,master,/thawatt,President at Hawat Group Analytics,"Boise, Idaho, United States",President,Hawat Group Analytics,United States
+831,expert,/yamqwe,CEO at Deep Trading ltd,"Haifa, Haifa District, Israel",CEO,Deep Trading ltd,Israel
+832,master,/bestpredict,soccer player at robocup,"Beijing, Beijing, China",soccer player,robocup,China
+833,master,/yifanxie,Data Scientist at Arion.ai,"Bristol, England, United Kingdom",Data Scientist,Arion.ai,United Kingdom
+836,expert,/ereminkostya,Data Scientist at Sberbank,"Khabarovsk, Khabarovsk Krai, Russia",Data Scientist,Sberbank,Russia
+837,master,/roguekk007,Rising Freshman at Harvard,"Shanghai, Shanghai, China",Rising Freshman,Harvard,China
+838,expert,/shingyo,Student at Keio University,"Tokyo, Tokyo, Japan",Student,Keio University,Japan
+842,expert,/lzcabc123456,undergraduate student at wuhan,"Wuhan, Hubei, China",undergraduate student,wuhan,China
+843,expert,/yuramuv,SE at Igor Sikorsky Kyiv Polytechnic Institute,"Kyiv, Ukraine",SE,Igor Sikorsky Kyiv Polytechnic Institute,Ukraine
+844,expert,/cwellszhang,Guy at SJTU,"Shanghai, Shanghai, China",Guy,SJTU,China
+845,expert,/dandrocec,"Assistant Professor at Faculty of Organization and Informatics, University of Zagreb","Varaždin, Croatia",Assistant Professor,"Faculty of Organization and Informatics, University of Zagreb",Croatia
+847,master,/phoenixl,Software Engineer at Instagram,"New York, New York, United States",Software Engineer,Instagram,United States
+851,master,/lovedm,算法工程师 at wx,"Guangzhou, Guangdong Province, China",算法工程师,wx,China
+853,expert,/akensert,PhD student at KU Leuven,"Leuven, Flanders, Belgium",PhD student,KU Leuven,Belgium
+855,expert,/qitvision,Senior AI Engineer at Silo AI,"Turku, Finland",Senior AI Engineer,Silo AI,Finland
+861,master,/creafz,Computer Vision Architect at X5 Retail Group,"Moscow, Russia",Computer Vision Architect,X5 Retail Group,Russia
+862,expert,/lauanlo,Assistant professor at TU Dortmund University,"Dortmund, North Rhine-Westphalia, Germany",Assistant professor,TU Dortmund University,Germany
+863,expert,/frankfisc,Research Assistant at Johannes Gutenberg-University Mainz,"Mainz, Rhineland-Palatinate, Germany",Research Assistant,Johannes Gutenberg-University Mainz,Germany
+865,master,/tarique7,Decision Scientist at Innovaccer,"New Delhi, Delhi, India",Decision Scientist,Innovaccer,India
+867,master,/panfeiyang,"PhD student at Institute of Computing Technology, CAS","Beijing, Beijing, China",PhD student,"Institute of Computing Technology, CAS",China
+868,master,/boberm,Professor of Video Processing at University of Surrey,"Guildford, England, United Kingdom",Professor of Video Processing,University of Surrey,United Kingdom
+869,expert,/madz2000,Student at Netaji Subhas Institute of Technology,"New Delhi, Delhi, India",Student,Netaji Subhas Institute of Technology,India
+870,expert,/greylord1996,Student at MIPT,"Moscow, Russia",Student,MIPT,Russia
+871,expert,/amithasanshuvo,ML Engineer at ACI Limited,"Rajshahi, Rajshahi Division, Bangladesh",ML Engineer,ACI Limited,Bangladesh
+872,master,/copasta,ML Engineer at hoge,"Tokyo, Tokyo, Japan",ML Engineer,hoge,Japan
+873,expert,/nexh98,CSE Undergrad at BUET,"Dhaka, Dhaka Division, Bangladesh",CSE Undergrad,BUET,Bangladesh
+874,expert,/zaber666,CS Undergrad at Bangladesh University of Engineering and Technology,"Dhaka, Dhaka Division, Bangladesh",CS Undergrad,Bangladesh University of Engineering and Technology,Bangladesh
+877,master,/xiaoyushowyou2,Data Science at Shopee,Singapore,Data Science,Shopee,Singapore
+878,expert,/ihelon,Data Scientist at Onseo,"Vinnytsia, Vinnytsia Oblast, Ukraine",Data Scientist,Onseo,Ukraine
+879,expert,/firstbloody,Student at UESTC,"Chengdu, Sichuan, China",Student,UESTC,China
+880,expert,/laplaceplanet,Student at USTC,"Shanghai, Shanghai, China",Student,USTC,China
+883,master,/buaazijian,M.S at BUAA,"Beijing, Beijing, China",M.S,BUAA,China
+885,master,/bsteenwi,PhD at Ghent University,"Ghent, Flanders, Belgium",PhD,Ghent University,Belgium
+891,expert,/abujaman,Medical student at UKE,"Hamburg, Hamburg, Germany",Medical student,UKE,Germany
+893,expert,/gdonchyts,Researcher at Deltares,"The Hague, South Holland, Netherlands",Researcher,Deltares,Netherlands
+894,master,/chundi,Machine Learning Scientist at Layer6 AI,"Toronto, Ontario, Canada",Machine Learning Scientist,Layer6AI,Canada
+895,expert,/imeintanis,Data Scientist at CORE-INNOVATION,"Athens, Greece",Data Scientist,CORE-INNOVATION,Greece
+898,expert,/hirayukis,engineer at EBILAB,"Tsu, Mie, Japan",engineer,EBILAB,Japan
+899,master,/lukeeee,Machine Learning Research Engineer at QED Software,"Warsaw, Masovian Voivodeship, Poland",Machine Learning Research Engineer,QED Software,Poland
+900,master,/mcggood,NLP  at Chengdu,"Chengdu, Sichuan, China",NLP,Chengdu,China
+902,expert,/saitodevel01,Control Systems Engineer at Mitsubishi Electric,"Amagasaki, Hyogo, Japan",Control Systems Engineer,Mitsubishi Electric,Japan
+906,expert,/tmktks,Producer/Project manager at IT,"Tokyo, Tokyo, Japan",Producer/Project manager,IT,Japan
+907,expert,/scp173,Engineer at Tencent,"Shenzhen, Guangdong Province, China",Engineer,Tencent,China
+911,master,/sameedhusain,Senior Research Fellow at University of Surrey,"Guildford, England, United Kingdom",Senior Research Fellow,University of Surrey,United Kingdom
+914,expert,/hoogleraar,PhD student at University of Twente,"Enschede, Overijssel, Netherlands",PhD student,University of Twente,Netherlands
+916,expert,/julienau,PhD Student at Eurecom / Orange,"Mougins, Provence-Alpes-Côte d'Azur, France",PhD Student,Eurecom / Orange,France
+917,master,/seefun,Master Student at SJTU,"Shanghai, Shanghai, China",Master Student,SJTU,China
+918,expert,/gyanendradas,Undergrad Student  at IIT ISM DHANBAD,"Dhanbad, Jharkhand, India",Undergrad Student,IIT ISM DHANBAD,India
+919,expert,/muhammad4hmed,Third-year BSCS student at FAST NUCES ,"Gharo, Sindh, Pakistan",Third-year BSCS student,FAST NUCES,Pakistan
+922,master,/ebouteillon,Product Owner at Ingenico,"Toulon, Provence-Alpes-Côte d'Azur, France",Product Owner,Ingenico,France
+923,expert,/nxhong93,AI Engineer at VNPay,"Hanoi, Hanoi, Vietnam",AI Engineer,VNPay,Vietnam
+925,expert,/reppic,Founder at Poeko,"Philadelphia, Pennsylvania, United States",Founder,Poeko,United States
+926,expert,/crained,CTO at MMW,"Cleveland, Ohio, United States",CTO,MMW,United States
+928,expert,/suvalex,Data Analysis at zarplata.ru,"Novosibirsk, Novosibirsk Oblast, Russia",Data Analysis,zarplata.ru,Russia
+934,expert,/satyakrishnagorti,Machine Learning Scientist at Layer6 AI,"Toronto, Ontario, Canada",Machine Learning Scientist,Layer6AI,Canada
+935,expert,/kaorusasakawa,Visiting Researcher at University of Tsukuba,"Kobe, Hyogo, Japan",Visiting Researcher,University of Tsukuba,Japan
+936,expert,/rgolovnya,Machine Learning Enthusiast at DSEC,"Dublin, County Dublin, Ireland",Machine Learning Enthusiast,DSEC,Ireland
+937,expert,/aybatov,Data Scientist at RetailRocket,"Moscow, Russia",Data Scientist,RetailRocket,Russia
+938,expert,/hawkey,Student at PKU,"Beijing, Beijing, China",Student,PKU,China
+939,expert,/gilangardya,Data Engineer at Traveloka,"West Jakarta, Jakarta, Indonesia",Data Engineer,Traveloka,Indonesia
+943,expert,/tonyyy,CEO at RIMCS,"Yokohama, Kanagawa, Japan",CEO,RIMCS,Japan
+945,master,/avens8,CV Researcher at Checklens,"Salzburg, Salzburg, Austria",CV Researcher,Checklens,Austria
+947,master,/zhaoyilun,Student at Zhejiang University,"Hangzhou, Zhejiang, China",Student,Zhejiang University,China
+948,expert,/tyleransom,Assistant Professor of Economics at University of Oklahoma,"Norman, Oklahoma, United States",Assistant Professor of Economics,University of Oklahoma,United States
+951,expert,/chinesewuji,Student at Xianjiaotong University,"Xi'an, Shaanxi, China",Student,Xianjiaotong University,China
+952,master,/angelecarre,AY Lab at UT,"Tokyo, Tokyo, Japan",AY Lab,UT,Japan
+954,expert,/misfyre,Software Engineer at Capital One,"McLean, Virginia, United States",Software Engineer,Capital One,United States
+956,expert,/davidtong,"AI Engineer at Shanghai SenseTime Technology Co., Ltd.","Shanghai, Shanghai, China",AI Engineer,"Shanghai SenseTime Technology Co., Ltd.",China
+959,master,/zerrxy,Programmer at Citymap Ltd,"Saint Petersburg, Russia",Programmer,Citymap Ltd,Russia
+960,master,/keisho,"Engineer at Recruit Co., Ltd.","Tokyo, Tokyo, Japan",Engineer,Recruit Co. Ltd,Japan
+962,expert,/achikin,Team Lead in Machine Learning Department at Jet Infosystems,"Moscow, Russia",Team Lead in Machine Learning Department,Jet Infosystems,Russia
+963,grandmaster,/zachmayer,Data Scientist at DataRobot,"Boston, Massachusetts, United States",Data Scientist,DataRobot,United States
+965,expert,/miaodeshui,student at bit,"Beijing, Beijing, China",student,bit,China
+966,expert,/monojito,student at SCNU,"Moscow, Russia",student,SCNU,Russia
+968,master,/voltaire,Deep Learning Engineer at Vexcel Imaging GmbH,"Graz, Styria, Austria",Deep Learning Engineer,Vexcel Imaging GmbH,Austria
+972,expert,/kenkrige,School Principal at kitsong.co.za,"Rustenburg, North West, South Africa",School Principal,kitsong.co.za,South Africa
+973,expert,/deepchatterjeevns,Data Scientist at NA,"Pune, Maharashtra, India",Data Scientist,,India
+974,expert,/toshinoue,Graduate Student at Hitotsubashi Univ,"Tokyo, Tokyo, Japan",Graduate Student,Hitotsubashi Univ,Japan
+978,grandmaster,/dynamic24,Data Scientist at H2O.ai,"Denver, Colorado, United States",Data Scientist,H2O.ai,United States
+981,expert,/bayartsogtya,Software Engineer | Data Scientist at MIU,"Fairfield, Iowa, United States",Software Engineer | Data Scientist,MIU,United States
+985,expert,/akravchuk97,DS at 2GIS,"Novosibirsk, Novosibirsk Oblast, Russia",DS,2GIS,Russia
+987,master,/vshakhray,Computer Vision Engineer at Tavour,"Moscow, Russia",Computer Vision Engineer,Tavour,Russia
+989,expert,/jonathanbesomi,Data Scientist at EPFL,"Lausanne, Vaud, Switzerland",Data Scientist,EPFL,Switzerland
+990,expert,/isaienkov,Data Science Engineer at Quantum,"Kharkiv, Kharkiv Oblast, Ukraine",Data Science Engineer,Quantum,Ukraine
+992,master,/tetyanayatsenko,Data Scientist  at BD,"San Diego, California, United States",Data Scientist,BD,United States
+993,master,/abzaliev,Data Scientist at GfK,"Nuremberg, Bavaria, Germany",Data Scientist,GfK,Germany
+999,grandmaster,/mmueller,Data Scientist at H2O.ai,"Dresden, Saxony, Germany",Data Scientist,H2O.ai,Germany
+1002,master,/davutpolat,Co-Founder at aigoritma.ai,"Istanbul, Istanbul, Turkey",Co-Founder,aigoritma.ai,Turkey
+1005,expert,/ruchi798,Data Science Global Ambassador at HP & NVIDIA,"Mumbai, Maharashtra, India",Data Science Global Ambassador,HP & NVIDIA,India
+1006,master,/ayaroshevskiy,Student  at Taras Shevchenko National University of Kyiv,"Kyiv, Ukraine",Student,Taras Shevchenko National University of Kyiv,Ukraine
+1007,expert,/kalyanpichuka,Senior Machine Learning Engineer at EY,"Bengaluru, Karnataka, India",Senior Machine Learning Engineer,EY,India
+1008,expert,/dldmw579,Student at Beihang University,"Beijing, Beijing, China",Student,Beihang University,China
+1009,expert,/vassilybar,Data Scientist at Sprout.ai,"Novosibirsk, Novosibirsk Oblast, Russia",Data Scientist,Sprout.ai,Russia
+1011,expert,/takuji,Data Scientist at KDDI,"Chiba, Chiba, Japan",Data Scientist,KDDI,Japan
+1014,master,/mykttu,Machine Learning Intern at NVIDIA,"Rolla, Missouri, United States",Machine Learning Intern,Nvidia,United States
+1016,master,/quanqiu,Data Scientist at ZhuanZhuan AI,"Beijing, Beijing, China",Data Scientist,ZhuanZhuan AI,China
+1019,expert,/atikahamed,Student at Rajshahi University of Engineering & Technology,"Rajshahi, Rajshahi Division, Bangladesh",Student,Rajshahi University of Engineering & Technology,Bangladesh
+1021,master,/dkaraflos,Models Validator at Piraeus Bank,"Athens, Greece",Models Validator,Piraeus Bank,Greece
+1022,master,/marcuslin,Sr. Engineer at Mediatek,Taiwan,Sr. Engineer,Mediatek,Taiwan
+1026,expert,/sdeagggg,Newbie at DL,"Nanning, Guangxi, China",Newbie,DL,China
+1028,master,/skuman,software engineer at Sibuya,"Shibuya City, Tokyo, Japan",software engineer,Sibuya,Japan
+1030,expert,/lpkirwin,Data Scientist at Deliveroo,"London, England, United Kingdom",Data Scientist,Deliveroo,United Kingdom
+1033,expert,/davelo12,Manager at Bates White Economic Consulting,"Washington, District of Columbia, United States",Manager,Bates White Economic Consulting,United States
+1035,master,/misaki1111,Data Mining at 9F,"Shenzhen, Guangdong Province, China",Data Mining,9F,China
+1038,master,/ilovearsenal,algorithm engineer at mgtv,"Changsha, Hunan, China",algorithm engineer,mgtv,China
+1044,master,/mitiau,Data Scientist at Sberbank AI lab,"Saint Petersburg, Russia",Data Scientist,Sberbank AI lab,Russia
+1045,master,/blingblinghi,Master at BUAA,"Beijing, Beijing, China",Master,BUAA,China
+1048,expert,/shunrcn,Data Scientist at THIRD INC.,"Tokyo, Tokyo, Japan",Data Scientist,THIRD INC.,Japan
+1049,expert,/lhagiimn,Ph.D. candidate at Chungbuk National University,"Cheongju-si, Chungcheongbuk-do, South Korea",Ph.D. candidate,Chungbuk National University,South Korea
+1053,expert,/alexxx,Data Scientist at uData,"Kyiv, Ukraine",Data Scientist,uData,Ukraine
+1054,expert,/leon7archer,Data Scientist at Upwork,"Novosibirsk, Novosibirsk Oblast, Russia",Data Scientist,Upwork,Russia
+1055,master,/nitindatta,Student at SRM Institute of Science and Technology,"Bengaluru, Karnataka, India",Student,SRM Institute of Science and Technology,India
+1057,master,/keita111,SE at SYS,"Tokyo, Tokyo, Japan",SE,SYS,Japan
+1059,master,/azakhtyamov,CV Teamlead at Severstal,"Moscow, Russia",CV Teamlead,Severstal,Russia
+1060,expert,/anonamename,Research Engineer at NSSOL,"Yokohama, Kanagawa, Japan",Research Engineer,NSSOL,Japan
+1062,expert,/jsaguiar,Data Modeling Analyst at Experian,"São Paulo, State of São Paulo, Brazil",Data Modeling Analyst,Experian,Brazil
+1063,expert,/vladvdv,AI Lead Engineer at IdriveAI,"Bucharest, Bucharest, Romania",AI Lead Engineer,IdriveAI,Romania
+1064,expert,/jd81197,Student at Dharmsinh Desai University,"Nadiad, Gujarat, India",Student,Dharmsinh Desai University,India
+1067,expert,/akshatgupta2810,Software Engineer at Societe Generale,"Bengaluru, Karnataka, India",Software Engineer,Societe Generale,India
+1068,expert,/stardjyeah,Student at University of Sheffield,"Sheffield, England, United Kingdom",Student,University of Sheffield,United Kingdom
+1069,expert,/eashenyang,Student at USTS,"Shanghai, Shanghai, China",Student,USTS,China
+1072,expert,/tw1994,学生 at 上海交通大学,"Shanghai, Shanghai, China",学生,上海交通大学,China
+1074,expert,/jamesphoward,Cardiologist at Imperial College London,"London, England, United Kingdom",Cardiologist,Imperial College London,United Kingdom
+1076,expert,/li325040229,ph.D at UCAS,"Beijing, Beijing, China",ph.D,UCAS,China
+1078,expert,/yuanlin08,Former soft engineer at Baidu,"Cupertino, California, United States",Former soft engineer,Baidu,United States
+1079,expert,/hoanganhpham,"Ph.D. Candidate at A2I2, Deakin University","Ho Chi Minh City, Ho Chi Minh City, Vietnam",Ph.D. Candidate,"A2I2, Deakin University",Vietnam
+1081,expert,/sneffort,Student at ZJU,"Hangzhou, Zhejiang, China",Student,ZJU,China
+1086,expert,/ryogam,Graduate Student at Tokyo Institute of Technology,"Tokyo, Tokyo, Japan",Graduate Student,Tokyo Institute of Technology,Japan
+1087,master,/jiujing23333,PHD at BUAA,"Beijing, Beijing, China",PHD,BUAA,China
+1088,master,/taindow,Data Scientist at humn.ai,"Onchan, Isle of Man",Data Scientist,humn.ai,Isle of Man
+1090,expert,/panjtan,Software Developer at UCA,"Bishkek, Chuy Province, Kyrgyzstan",Software Developer,UCA,Kyrgyzstan
+1092,master,/adilism,PhD candidate at Universitat Pompeu Fabra,"Barcelona, Catalonia, Spain",PhD candidate,Universitat Pompeu Fabra,Spain
+1098,expert,/kshitijmohan,Student at Indraprastha Institute of Information Technology Delhi,"New Delhi, Delhi, India",Student,Indraprastha Institute of Information Technology Delhi,India
+1099,expert,/dsvolkov,computer vision at Martian Technologies,"Moscow, Russia",computer vision,Martian Technologies,Russia
+1101,master,/shuheigoda,"Data Scientist at Wantedly, inc.","Tokyo, Tokyo, Japan",Data Scientist,"Wantedly, inc.",Japan
+1102,expert,/salimkhazem,Student at Paris Saclay,"Paris, Île-de-France, France",Student,Paris Saclay,France
+1103,expert,/gpamoukoff,Data Scientist at Tipico,"Saint Julian's, Malta",Data Scientist,Tipico,Malta
+1104,expert,/hamditarek,Data Scientist at Huawei,"Tunis, Tunis, Tunisia",Data Scientist,Huawei,Tunisia
+1105,expert,/yusufengintetik,Principle Researcher at Tubitak,"Istanbul, İstanbul, Turkey",Principle Researcher,Tubitak,Turkey
+1107,expert,/blurredmachine,"Data Scientist at India Urban Data Exchange, IISc. Bengaluru","Bengaluru, Karnataka, India",Data Scientist,"India Urban Data Exchange, IISc. Bengaluru",India
+1108,expert,/wanizz,Data Scientist at Plarium,"Krasnodar, Krasnodar Krai, Russia",Data Scientist,Plarium,Russia
+1109,grandmaster,/iglovikov,"Staff Computer Vision Engineer at Level5 Engineering Center, Lyft Inc","San Francisco, California, United States",Staff Computer Vision Engineer,"Level5 Engineering Center, Lyft Inc",United States
+1111,expert,/syumei,undergraduate student at Univercity of Tokyo,"Tokyo, Tokyo, Japan",undergraduate student,University of Tokyo,Japan
+1113,master,/alexfritz,Engineer at Samsung AI-Center,"Moscow, Russia",Engineer,Samsung AI-Center,Russia
+1114,expert,/yururoi,Consultant at Ulsystems,"Shiroi, Chiba, Japan",Consultant,Ulsystems,Japan
+1116,expert,/tiulpin,(Y)ML Engineer at JetBrains,"Saint Petersburg, Russia",(Y)ML Engineer,JetBrains,Russia
+1118,expert,/oleg90777,Data Scientist at Conrad Electronic,"Amberg, Bavaria, Germany",Data Scientist,Conrad Electronic,Germany
+1119,expert,/adrianiordache,Machine Learning Engineer at idrive AI,"Bucharest, Bucharest, Romania",Machine Learning Engineer,IdriveAI,Romania
+1121,master,/alexkirnas,Research Engineer at Ring Ukraine,"Kyiv, Ukraine",Research Engineer,Ring Ukraine,Ukraine
+1125,master,/solomonk,Deep Learning / PyTorch at interviews.ai,"Tel Aviv-Yafo, Tel Aviv District, Israel",Deep Learning / PyTorch,interviews.ai,Israel
+1129,expert,/insaff,Moscow at Sberbank,"Moscow, Russia",Moscow,Sberbank,Russia
+1130,expert,/brutallee,SDE at Microsoft,"Vancouver, British Columbia, Canada",SDE,Microsoft,Canada
+1131,expert,/steventm,NA at NA,"Taipei, Taiwan",,,Taiwan
+1132,expert,/raytsai,Jake at TreeFort,"Taoyuan, Taoyuan City, Taiwan",Jake,TreeFort,Taiwan
+1133,expert,/shelldragoon1104,Final Year B.Tech Student at The LNM Institute Of Information Technology,"Jaipur, Rajasthan, India",Final Year B.Tech Student,The LNM Institute Of Information Technology,India
+1136,expert,/shivam17818,Student at AKTU,"Basti, Uttar Pradesh, India",Student,AKTU,India
+1138,expert,/yushg123,Student at The International School Bangalore,"Bengaluru, Karnataka, India",Student,The International School Bangalore,India
+1139,expert,/frankw,trader at sam,Hong Kong,trader,sam,Hong Kong
+1142,expert,/kani23,M2 at BioInformatics,"Fukuoka, Fukuoka, Japan",M2,BioInformatics,Japan
+1144,expert,/polapob,Student at Chulalongkorn university,"Bangkok, Bangkok, Thailand",Student,Chulalongkorn university,Thailand
+1147,expert,/izotov,IT Project Manager at ITsBI,"Moscow, Russia",IT Project Manager,ITsBI,Russia
+1148,expert,/mhyodo,Data Scientist at BrainPad,"Tokyo, Tokyo, Japan",Data Scientist,BrainPad,Japan
+1149,expert,/scirpus,Thinker at On the Loo,"London, England, United Kingdom",Thinker,On the Loo,United Kingdom
+1150,expert,/andreigheorghiu,Data Scientist at eMAG,"Bucharest, Bucharest, Romania",Data Scientist,eMAG,Romania
+1152,expert,/jinssaa,AI Researcher at MegaStudyEdu Co Ltd,"Seoul, Seoul, South Korea",AI Researcher,MegaStudyEdu Co Ltd,South Korea
+1153,expert,/isanton,ml eng at S ag,"Nuremberg, Bavaria, Germany",ml eng,S ag,Germany
+1157,expert,/enikeev,Head of Department at Sberbank,"Odintsovo, Moscow Oblast, Russia",Head of Department,Sberbank,Russia
+1159,expert,/kirichenko17roman,Data scientist at VEON,"Kyiv, Ukraine",Data scientist,VEON,Ukraine
+1161,expert,/alturutin,DS at Inno.tech,"Moscow, Russia",DS,Inno.tech,Russia
+1162,expert,/keewonshin,PhD candidate at  Univ. of Ulsan College of Medicine,"Seoul, Seoul, South Korea",PhD candidate,Univ. of Ulsan College of Medicine,South Korea
+1164,expert,/agentili,Professor of Clinical Radiology at UCSD,"San Diego, California, United States",Professor of Clinical Radiology,UCSD,United States
+1165,expert,/changewow,shiba at hammer,"Shanghai, Shanghai, China",shiba,hammer,China
+1167,expert,/samusram,Research Engineer at Honeywell,"Prague, Prague, Czechia",Research Engineer,Honeywell,Czechia
+1169,expert,/artemenon,"Student at Dept. of EEE, Bangladesh University Of Engineering and Technology","Dhaka, Dhaka Division, Bangladesh",Student,"Dept. of EEE, Bangladesh University Of Engineering and Technology",Bangladesh
+1171,expert,/riadalmadani,Electrical Engineer at University of Kufa,"Najaf, Najaf Governorate, Iraq",Electrical Engineer,University of Kufa,Iraq
+1173,expert,/manjeshg03,Learner at ML,"Bengaluru, Karnataka, India",Learner,ML,India
+1175,expert,/syxuming,Alchemist at Jupyter,"Hangzhou, Zhejiang, China",Alchemist,Jupyter,China
+1176,expert,/superant,Data Scientist at Munich,"Munich, Bavaria, Germany",Data Scientist,Munich,Germany
+1177,expert,/viswanathravindran,Principal Data Scientist at Idexcel Technologies,"Bengaluru, Karnataka, India",Principal Data Scientist,Idexcel Technologies,India
+1178,expert,/teyosan1229,engineer at General companies,"Nagoya, Aichi, Japan",engineer,General companies,Japan
+1180,expert,/artmatician,Biostatistician at Osakidetza,"Bilbao, Basque Country, Spain",Biostatistician,Osakidetza,Spain
